@@ -24,7 +24,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/imanjith-waniganayaka" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="imanjith waniganayaka" height="50" width="50" /></a>
+<a href="[www.linkedin.com/in/imanjith-waniganayaka](https://www.linkedin.com/in/imanjith-waniganayaka/)" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="imanjith waniganayaka" height="50" width="50" /></a>
 <a href="https://instagram.com/imanjith_._nejan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imanjith_._nejan" height="50" width="50" /></a>
 <a href="mailto:imanjithnejan@email.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" alt="imanjithnejan@gmail.com" height="50" width="50" /></a>
 <a href="https://github.com/ImanjithWaniganayaka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="imanjithnejan@gmail.com" height="50" width="50" /></a>
