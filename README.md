@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 - I'm a Computer Science student at the **University of Westminster**
 
-- 🌱 I’m currently learning **Python, Java, HTML/CSS, JavaScript**
+- 🌱 I’m currently learning **React, Node.js, Flutter, express.js**
 
 - 💻 Passionate about **software development, web technologies, and problem-solving**
 
